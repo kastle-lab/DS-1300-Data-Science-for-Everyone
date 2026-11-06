@@ -88,7 +88,7 @@ Aside from posted extra credit (if any), there will be no opportunities to impro
 |  Week 10 |       Interpreting Results       |
 | Week 11  |   Introducing GenAI;Ethical AI   |
 | Week 12-14  |   Project work   |
-| Week 11  |   Final Project Deliverable  |
+| Week 15  |   Final Project Deliverable  |
 
 ## GenAI Usage
 In this course, you are permitted to use Generative AI tools to assist with writing code or building data workflows in Orange; however, under no circumstances may you use GenAI to write, outline, or generate any portion of your written reports. All analysis, insights, and communication of findings must be entirely your own original work. If you choose to utilize AI for technical assistance, you bear full and ultimate responsibility for the output. You are expected to act ethically by critically evaluating, testing, and verifying any AI-generated code for accuracy and bias rather than blindly trusting the results, ensuring that all submitted work meets the highest standards of academic integrity.
