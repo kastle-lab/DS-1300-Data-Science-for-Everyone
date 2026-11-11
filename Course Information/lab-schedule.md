@@ -15,7 +15,7 @@ Each lab follows that week's lectures, using Orange throughout, with NLP in week
 | 6 | Feature engineering 2 + NLP 2: text to features | Encoding, binning, scaling, aggregation, merging; bag of words and TF-IDF; keyword extraction; word clouds |
 | 7 | Classification + sentiment analysis | Train/test split and cross-validation; logistic regression, kNN, Naive Bayes, SVM, trees; random forest, sentiment analysis: lexicon-based vs supervised text classification |
 | 8 | Spring break | No lab |
-| 9 | Regression and unsupervised learning | A: linear, polynomial, tree-based and kNN regression; ridge and lasso; MAE, RMSE, R²; residual plots. B: distance measures; k-means and hierarchical clustering; silhouette; PCA; t-SNE |
+| 9 | Regression and unsupervised learning | A: linear, polynomial, tree-based and kNN regression; ridge and lasso; MAE, RMSE, R²; residual plots.ARIMA model B: distance measures; k-means and hierarchical clustering; silhouette; PCA; t-SNE |
 | 10 | Explaining and reporting + Tableau dashboards | Feature importance; SHAP global and local explanations; ICE curves; Intro to Tableau; Tableau dashboard or Story with action titles |
 | 11 | NLP 3: text mining and networks (Gephi) + ethics | Topic modelling; document embeddings and clustering documents; character and word co-occurrence networks in Gephi (short story from Quiz 2); community detection and centrality; |
 | 12 | Project lab 1 | |
